@@ -1,7 +1,8 @@
-Wifi Name : ManagermentAP
+Wifi Name : Ertugrul18
 
-Password  : mgmtadmin 
+Password  : Ertugrul18 
 
 server 198.168.4.1
 
 ONLINE FLASH TOOL FOR ESP32 - https://espressif.github.io/esp-launchpad/
+
